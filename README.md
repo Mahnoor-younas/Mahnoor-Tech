@@ -11,6 +11,7 @@ My main Tech stack is HTML, CSS, and JavaScript. My favorite tool are Figma, app
 I’ve pinned several projects here — my favorite one is a Weather App.
 
 Fun Facts:
+
 .Always forget snacks 🍪
 .Randomly doodle notes ✏️
 .Love silent mornings 🌅
